@@ -4,6 +4,7 @@
 * [Dataset](https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view?usp=sharing)
 ---
 ## 2. Rain in Australia
+* Observation data from several observation station in Austrlia, which is used to predict if will rain the next day.
 * [Dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 * Variables
 
