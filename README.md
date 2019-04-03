@@ -6,6 +6,8 @@
 ## 2. Rain in Australia
 * [Dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 * Variables
+
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
